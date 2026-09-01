@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T18:08:35",
+  "generated": "2026-09-01T02:32:11",
   "commercialCutoffDay": 25,
   "commercialCycleLabel": "26-25",
   "d2026": {
@@ -74,6 +74,14 @@
       "Showroom": 0,
       "Web": 0,
       "Tienda": 0
+    },
+    "Octubre": {
+      "WhatsApp": 0,
+      "Instagram": 0,
+      "Facebook": 0,
+      "Showroom": 0,
+      "Web": 0,
+      "Tienda": 0
     }
   },
   "d2026_calendar": {
@@ -142,6 +150,14 @@
       "Tienda": 55030.6
     },
     "Septiembre": {
+      "WhatsApp": 0,
+      "Instagram": 0,
+      "Facebook": 0,
+      "Showroom": 0,
+      "Web": 0,
+      "Tienda": 0
+    },
+    "Octubre": {
       "WhatsApp": 0,
       "Instagram": 0,
       "Facebook": 0,
@@ -685,7 +701,8 @@
         "TIENDA": 0
       }
     ],
-    "Septiembre": []
+    "Septiembre": [],
+    "Octubre": []
   },
   "weeklyData_calendar": {
     "Enero": [
@@ -1124,7 +1141,8 @@
         "TIENDA": 0
       }
     ],
-    "Septiembre": []
+    "Septiembre": [],
+    "Octubre": []
   },
   "weeklyData_commercial": {
     "Enero": [
@@ -2179,7 +2197,8 @@
         "TIENDA": 0
       }
     ],
-    "Septiembre": []
+    "Septiembre": [],
+    "Octubre": []
   },
   "weekly2026_calendar": {
     "Enero": [
@@ -2618,7 +2637,8 @@
         "TIENDA": 0
       }
     ],
-    "Septiembre": []
+    "Septiembre": [],
+    "Octubre": []
   },
   "weekly2026_commercial": {
     "Enero": [
@@ -3308,6 +3328,14 @@
       "SHOWROOM": 0,
       "WEB": 0,
       "TIENDA": 0
+    },
+    "Octubre": {
+      "WHATSAPP": 0,
+      "INSTAGRAM": 0,
+      "FACEBOOK": 0,
+      "SHOWROOM": 0,
+      "WEB": 0,
+      "TIENDA": 0
     }
   },
   "transactions_calendar": {
@@ -3376,6 +3404,14 @@
       "TIENDA": 193
     },
     "Septiembre": {
+      "WHATSAPP": 0,
+      "INSTAGRAM": 0,
+      "FACEBOOK": 0,
+      "SHOWROOM": 0,
+      "WEB": 0,
+      "TIENDA": 0
+    },
+    "Octubre": {
       "WHATSAPP": 0,
       "INSTAGRAM": 0,
       "FACEBOOK": 0,
